@@ -1,0 +1,13 @@
+#center {
+    width: 100%;
+    text-align: center;
+}
+
+body{
+    background-color: blue;
+}
+
+canvas {
+    display: inline;
+    background-color: #fce98d;
+}
