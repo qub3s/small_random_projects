@@ -1,3 +1,3 @@
-Collection of super small to medium coding projects.
+Collection of small to medium coding projects.
 
 
